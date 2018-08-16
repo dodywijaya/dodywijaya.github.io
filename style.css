@@ -1,0 +1,8 @@
+img {position-fixed}
+h1 {text-align: center; color: black; font-size: cursive; margin-top: 100px;}
+nav {float: right; position: relative;}
+li {display: inline; padding-right: 10;}
+header {position: fixed; width: 100%; top: 10; left: 10; border-bottom: 1px solid; black}
+article { margin-left: 350; margin-right: 350; margin-bottom: 1 px; background-color: white; padding-left: 10px
+padding-right: 10px;}
+body {background-color: grey}
